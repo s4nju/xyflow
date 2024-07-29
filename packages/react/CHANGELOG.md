@@ -1,5 +1,11 @@
 # @xyflow/react
 
+## 12.0.4
+
+### Patch Changes
+
+- [#4480](https://github.com/xyflow/xyflow/pull/4480) [`aae526f`](https://github.com/xyflow/xyflow/commit/aae526f4ce0818e8ab5ee9f44dd7ce4b70eb4cf9) Thanks [@peterkogo](https://github.com/peterkogo)! - fix(dragging) nodeExtent breaks dragging nodes in subflows
+
 ## 12.0.3
 
 ### Patch Changes
